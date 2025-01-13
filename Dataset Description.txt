@@ -1,0 +1,15 @@
+Dataset Description
+
+The dataset consists of the following columns:
+
+1)Date: The date of work.
+
+2)Day: The day of the week.
+
+3)Morning Shift: The name of the employee who worked in the morning shift.
+
+4)Evening Shift: The name of the employee who worked in the evening shift.
+
+5)Morning Shift Salary: The salary earned by the morning shift employee.
+
+6)Evening Shift Salary: The salary earned by the evening shift employee.
